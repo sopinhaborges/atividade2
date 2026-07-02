@@ -1,0 +1,19 @@
+LAYOUT:
+
+#FFFFFF
+#ECEEF1
+#D9D9D9
+
+FONTES: 
+Inter (na pasta)
+
+Comandos css para inserir fonte:
+@font-face {
+  font-family: 'Nome da fonte';
+  src: url('local da fonte') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+ seletor de onde vai aplicar a fonte{
+		font-family: 'Nome da fonte', sans-serif;
+ }

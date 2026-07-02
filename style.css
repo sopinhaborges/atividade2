@@ -1,0 +1,40 @@
+.body{
+    background-color: #FFFFFF;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fundo{
+    background-color: #FFFFFF;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.avatar{
+    border-radius: 10000px;
+    width: 150px;
+}
+.botaorede{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card{
+    flex-direction: column;
+    display: flex;
+    padding: 12px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cinzaescuro{
+    background-color: #ECEEF1;
+    display: flex;
+}
+.one{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.two{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif0;
+}
